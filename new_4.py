@@ -47,7 +47,7 @@ apoA=find_d(a,E)
 apoB=find_d(b,E)
 apoC=find_d(c,E)
 apoD=find_d(d,E)
-y=2
+y=1
 if(y==1):
     print('apoA \n')
     print_dict(apoA)
